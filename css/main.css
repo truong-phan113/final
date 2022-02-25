@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bar1
+{
+	width: 100%;
+	height: 30px;
+	background-color: aliceblue;
+	padding-top: 5px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.bar2
+{
+	width: 100%;
+	height: 60px;
+	background-color:darkslategrey;
+	box-sizing: border-box;
+	padding:15px;
+	padding-left: 25px;
+	position: relative;
+	
+}
+
+.bar3
+{
+	width: 100%;
+	height: 400px;
+	background-color: dimgray;
+	position: relative;
+	box-sizing: border-box;
+}
+.bar4
+{
+	width: 100%;
+	height: 200px;
+	background-color: aliceblue;
+	box-sizing: border-box;
+	position: relative;
+	padding-left: 40px;
+	
+}
+.bar5
+{
+	width: 100%;
+	height: 300px;
+	background-color: antiquewhite;
+	box-sizing: border-box;
+	position: relative;
+	padding-top: 15px;
+	padding-left: 30px;
+}
+.bar6
+{
+	width: 100%;
+	height: 500px;
+	background-color: aliceblue;
+	box-sizing: border-box;
+	position: relative;
+	padding-top: 120px;
+}
+.bar7
+{
+	width: 100%;
+	height: 100px;
+	background-color: cornflowerblue;
+	box-sizing: border-box;
+	position: relative;
+}
+.bar8
+{
+	width: 100%;
+	height: 150px;
+	background-color: dimgrey;
+	box-sizing: border-box;
+	position: relative;
+	padding-left: 17px;
+}
+.bar9
+{
+	width: 100%;
+	height: 50px;
+	background-color:black;
+}
+.icontron
+{
+	width: 10px;
+	height: 10px;
+	margin:5px;
+	float:left;
+	background-color: gray;
+	border-radius: 100%;
+}
+.recbar2b
+{
+	width:70px;
+	height: 30px;
+	background-color: blue;
+	float:left;
+}
+.recbar2w
+{
+	width:70px;
+	height: 10px;
+	background-color: aliceblue;
+	float:right;
+	margin: 8px;
+	border-radius: 10px;
+}
+.recbar2br
+{
+	width: 80px;
+	height: 20px;
+	background-color: blue;
+	float:right;
+	margin-top: 3px;
+}
+.recbar3b
+{
+	width:150px;
+	height: 30px;
+	background-color: blue;
+	position: absolute;
+	top: 250px;
+	left: 45%;
+}
+.recbar4
+{
+	width: 30%;
+	height: 70px;
+	background-color: gray;
+	float:left;
+	margin:15px;
+}
+.recbar5w1
+{
+	width:30%;
+	height: 70px;
+	background-color: aliceblue;
+	margin: 20px;
+	
+}
+.recbar5w2
+{
+	width: 60%;
+	height: 235px;
+	background-color: aliceblue;
+	position: absolute;
+	bottom: 30px;
+	left: 35%;
+	
+}
+.recbar5b
+{
+	width: 20%;
+	height: 50px;
+	background-color: blue;
+	margin-left: 20px;
+	
+}
+.recbar6
+{
+	width: 30%;
+	height: 150px;
+	background-color: gray;
+	margin: 20px;
+	float:left;
+}
+.recbar6tit
+{
+	width :20%;
+	height: 10px;
+	background-color: black;
+	position: absolute;
+	top: 60px;
+	left:40%;
+	
+}
+.recbar7b
+{
+	width: 50%;
+	height: 30px;
+	background-color: blue;
+	position: absolute;
+	top:30px;
+	left: 15%;
+}
+.recbar7s
+{
+	width: 10%;
+	height: 30px;
+	background-color: blue;
+	position: absolute;
+	top:30px;
+	right: 22%;
+}
+.recbar8
+{
+	width: 20%;
+	height: 100px;
+	background-color: aliceblue;
+	float:left;	
+	margin:35px;
+}
